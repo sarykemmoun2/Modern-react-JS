@@ -1,0 +1,26 @@
+[
+    {
+        "length": 150,
+        "name": "עולם חרש",
+        "author": "בתיה ענה",
+        "location": "A1"
+    },
+    {
+        "length": 650,
+        "name": "עגור הברונזה",
+        "author": "מיה קינן",
+        "location": "B3"
+    },
+    {
+        "length": 300,
+        "name": "כבשה סגולה",
+        "author": "תמר מור",
+        "location": "A5"
+    },
+    {
+        "length": 450,
+        "name": "אדום לבן",
+        "author": "דבורי רנד",
+        "location": "C1"
+    }
+]
